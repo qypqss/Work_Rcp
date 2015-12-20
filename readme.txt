@@ -4,3 +4,5 @@ git is good
 git  is good good
 readmetest
 git tracks changes of files
+git stupid 1
+git stupid 2
